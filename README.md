@@ -1,5 +1,12 @@
 #Indíce
 
+[](o#projeto---criando-tela-de-cadastro-com-bootstrap)
+[](#%EF%B8%8Fdescri%C3%A7%C3%A3o)
+[](#funcionalidade)
+[](#tecnologias-utilizadas)
+[](#vscode)
+[](#fontes-consultadas)
+
 # 💕Projeto - Criando tela de Cadastro com Bootstrap
 
 ![gif](gif_endereço.gif)
@@ -32,4 +39,7 @@ Essa característica sendo para alargar as caixas de informações, aumentando s
 - V8: 10.8.168.25-electron.0  
 - OS: Windows_NT x64 10.0.22000  
 ## 🥰Fontes consultadas
-[https://getbootstrap.com/docs/5.3/forms/layout/#gutters] Bootstrap 5.3 #gutters!
+[Bootstrap 5.3 #gutters!] (https://getbootstrap.com/docs/5.3/forms/layout/#gutters)
+
+## 💗Agradecimentos!
+Obrigado ao professor por ter a pcienciar em explicar novamente quando eu precisei! as vezes não da pra ouvir.
