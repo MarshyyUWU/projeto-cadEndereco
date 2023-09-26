@@ -6,7 +6,8 @@
 
 ## ❤️Descrição
 
-Aqui é um novo projeto aonde estou aprendendo a mecher na caracteristica "col" de Bootstrap
+Aqui é um novo projeto aonde estou aprendendo a mecher na caracteristica "col" de Bootstrap.
+Essa característica sendo para alargar as caixas de informações, aumentando seu valor, ela expande para os lados.  Diminuindo sua quantia, ela diminuí.
 
 ## 😘Funcionalidade
 
@@ -31,3 +32,4 @@ Aqui é um novo projeto aonde estou aprendendo a mecher na caracteristica "col" 
 - V8: 10.8.168.25-electron.0  
 - OS: Windows_NT x64 10.0.22000  
 ## 🥰Fontes consultadas
+[https://getbootstrap.com/docs/5.3/forms/layout/#gutters] Bootstrap 5.3 #gutters!
