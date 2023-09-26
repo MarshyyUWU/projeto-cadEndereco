@@ -1,12 +1,12 @@
 #Indíce
 
-[Projeto](o#projeto---criando-tela-de-cadastro-com-bootstrap)
-[Descrição](#%EF%B8%8Fdescri%C3%A7%C3%A3o)
-[Funcionalidade](#funcionalidade)
-[Tecnologias Utilizadas](#tecnologias-utilizadas)
-[App Usado](#vscode)
-[Fontes culsutadas](#fontes-consultadas)
-[Agradecimentos](#agradecimentos)
+[Projeto](o#projeto---criando-tela-de-cadastro-com-bootstrap)  
+[Descrição](#%EF%B8%8Fdescri%C3%A7%C3%A3o)  
+[Funcionalidade](#funcionalidade)  
+[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+[App Usado](#vscode)  
+[Fontes culsutadas](#fontes-consultadas)  
+[Agradecimentos](#agradecimentos)  
 
 # 💕Projeto - Criando tela de Cadastro com Bootstrap
 
