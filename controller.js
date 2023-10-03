@@ -23,7 +23,7 @@ const preencherFormulario = (endereco) =>{
 Função para consumo de API
 utilizando a função di tipo assincronica*/
 
-const para pesquisarCep = async() =>{
+const pesquisarCep = async() =>{
     limparFormulario();
     const url = `http://viacep.com.br/ws/${cep.value}/json/`;
     if(cepValido(cep.value)){
@@ -33,7 +33,7 @@ const para pesquisarCep = async() =>{
         if(addres.hasOwnProperty('erro')){
             alert('CEP não encontrado');
         }else{
-            preencherFormulario(adress);
+            preencherFormulario(addres);
         }
     }else{
         alert('CEP incorreto');
